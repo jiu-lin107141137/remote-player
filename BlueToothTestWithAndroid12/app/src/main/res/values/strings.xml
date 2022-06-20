@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlueToothTestWithAndroid12</string>
+
+    <string name="main_activity_title">Remote player</string>
+    <string name="find_device">Find device</string>
+    <string name="ble_not_supported">This device does not support BLE!!</string>
+</resources>
